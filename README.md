@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mohamedmajdi0002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SG-pbqDZT4t_xS0Ww-IfEgRjph7wQSyK/view?usp=sharing](https://drive.google.com/file/d/1SG-pbqDZT4t_xS0Ww-IfEgRjph7wQSyK/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SG-pbqDZT4t_xS0Ww-IfEgRjph7wQSyK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
