@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">A Robotics Software Engineer with focus on perception algorithms, computer vision, and sensor fusion for autonomous vehicles and collaborative robot manipulators. Looking for new opportunities in the robotics and software fields.</h3>
+<h3 align="center">A June 2023 Mechatronics engineering graduate and Robotics Software Engineer with focus on perception algorithms, computer vision, and sensor fusion for autonomous robots. Seeking new opportunities to expand my knowledge in the intelligent robotics field.</h3>
 
 - 💬 Ask me about **Robotics, AI, Computer Vision, Sensor Fusion**
 
 - 📫 How to reach me **mohamedmajdi0002@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1R6Ta7vklwxvSk3U00hPVAXF-ZUq7KT_K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
