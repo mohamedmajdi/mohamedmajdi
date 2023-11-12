@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">A June 2023 Mechatronics engineering graduate and Robotics Software Engineer with focus on perception algorithms, computer vision, and sensor fusion for autonomous robots. Seeking new opportunities to expand my knowledge in the intelligent robotics field.</h3>
+<h3 align="center">A Mechatronics engineering graduate and Robotics Software Engineer with focus on perception algorithms, computer vision, and sensor fusion for autonomous robots. Seeking new opportunities to expand my knowledge in the intelligent robotics field.</h3>
 
 - 💬 Ask me about **Robotics, AI, Computer Vision, Sensor Fusion**
 
