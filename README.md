@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy Atta</h1>
-<h3 align="center">A Robotics and Mechatronics Engineer passionate about perception and autonomy for Roboic Manipulation and underwater robots. I hold a Bachelor's degree in Mechatronics Engineering, and currently pursuing a Master of Science degree in Intelligent Marine Robotics. Previously worked in model-based design, perception, control, AUVs and robotic manipulation. Actively seeking opportunities to expand my knowledge in the intelligent robotics field.</h3>
+<h3 align="center">A Robotics and Mechatronics Engineer passionate about perception and autonomy for Robotic Manipulation and underwater robots. I hold a Bachelor's degree in Mechatronics Engineering, and currently pursuing a Master of Science degree in Intelligent Marine Robotics. Previously worked in model-based design, perception, control, AUVs and robotic manipulation. Actively seeking opportunities to expand my knowledge in the intelligent robotics field.</h3>
 
 - 💬 Ask me about **Robotics, AI, Computer Vision, Sensor Fusion, Control**
 
